@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アルティメットセンパイ",
+  "base_artist": "PinocchioP",
+  "createdAt": "2025-12-21T01:59:19.754494Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルティメットセンパイ",
+      "artist": "pinocchioP",
+      "has_synced": false,
+      "path": "select/pl_01_アルティメットセンパイ_pinocchioP.txt"
+    }
+  ]
+}
